@@ -185,15 +185,21 @@ Each technology icon is individually clickable and links to its official website
 
 ### 📈 Contribution Activity
 
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution activity graph"/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+  />
 
 </div>
+
+---
 
 ---
 
