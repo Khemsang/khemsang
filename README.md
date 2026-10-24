@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Milan Rai**, a Full Stack Developer based in Finland 🇫🇮.
+Hi, I'm **Milan Rai**, a Full Stack Developer based in Nepal.
 
 I enjoy building modern, responsive web and mobile applications, developing backend APIs, working with databases, and creating intuitive user interfaces.
 
