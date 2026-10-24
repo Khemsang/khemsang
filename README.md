@@ -170,16 +170,16 @@ Each technology icon is individually clickable and links to its official website
 <i>Consistency • Contributions • Continuous Learning</i>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Khemsang/khemsang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Khemsang/khemsang&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=https://github.com/Khemsang/khemsang&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -193,7 +193,7 @@ Each technology icon is individually clickable and links to its official website
 
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Khemsang/khemsang&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"
     alt="GitHub Contribution Activity Graph"
   />
 
@@ -210,7 +210,7 @@ Each technology icon is individually clickable and links to its official website
 <i>A selection of projects I've built and worked on.</i>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Featured project one"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Khemsang/khemsang&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Featured project one"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
@@ -240,7 +240,7 @@ Each technology icon is individually clickable and links to its official website
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/https://github.com/Khemsang/khemsang">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
